@@ -22,7 +22,7 @@ This game plays like any other version of breakout where the player’s aim is t
 
 ### Pause Screen
 
-![Brick Multiplier](./Images/PauseScreen.JPG)
+![Pause Screen](./Images/PauseScreen.JPG)
 
 ### Brick Multiplier
 
@@ -30,12 +30,12 @@ This game plays like any other version of breakout where the player’s aim is t
 
 ### Death Screen
 
-![Brick Multiplier](./Images/DeathScreen.JPG)
+![Death Screen](./Images/DeathScreen.JPG)
 
 ### Game Over
 
-![Brick Multiplier](./Images/GameOverScreen.JPG)
+![Game Over](./Images/GameOverScreen.JPG)
 
 ### Highscore
 
-![Brick Multiplier](./Images/HighscoreScreen.JPG)
+![Highscore](./Images/HighscoreScreen.JPG)
