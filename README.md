@@ -2,7 +2,7 @@
 A version of the arcade game Breakout that was developed in Visual Studio using C# Window Form App (.NET Framework). This was developed as one of two main projects for the Otago Polytechnic Bachelor of Information Technology Programming 2 paper (IN511001). 
 
 ## Installation
-The project source code can be launch using Visual Studio 2017 where you can use the built-in debugger to launch the game. To Launch the game without using Visual Studio, open the .exe file located in the home directory of this repo (Breakout.exe).
+The project source code can be launch using Visual Studio 2017 where you can use the built-in compiler to launch the game. To Launch the game without using Visual Studio, open the .exe file located in the home directory of this repo (Breakout.exe).
 
 ## Technologies Used  
 C#  
